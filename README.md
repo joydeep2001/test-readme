@@ -17,3 +17,7 @@ Here is a video:
 
 ## Screenshot
 ![ss](./my_test_ss.png)
+
+
+## Video local
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=tLiqqx0ula8)
