@@ -20,4 +20,4 @@ Here is a video:
 
 
 ## Video local
-[test_sr.webm](https://github.com/user-attachments/assets/79a183b1-fdc7-48af-b5ea-9f521c1817ef)
+[test_sr.webm](./test_sr.webm)
