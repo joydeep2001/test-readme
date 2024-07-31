@@ -21,3 +21,6 @@ Here is a video:
 
 ## Video local
 [test_sr.webm](./test_sr.webm)
+
+## Drag and drop into readme
+[test_sr.webm](https://github.com/user-attachments/assets/581980f6-9c24-442d-931b-77a84e3ca027)
