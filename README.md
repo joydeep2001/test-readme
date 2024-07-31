@@ -16,4 +16,4 @@ Here is a video:
 
 
 ## Screenshot
-![ss](./Screenshot from 2024-07-31 17-31-18.png)
+![ss](./my_test_ss.png)
