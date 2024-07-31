@@ -8,10 +8,10 @@ Here is a photo:
 
 Here is a video:
 
-[![Alt text for the video](./path/to/local/thumbnail.jpg)](https://youtu.be/gV6hP9wpMW8?si=cylN9dnbk3raiqQN)
+[![Musk video](https://i.pinimg.com/736x/07/49/34/0749343d6720ab6b5b8629178741d21d.jpg)](https://youtu.be/gV6hP9wpMW8?si=cylN9dnbk3raiqQN)
 
 ## GIF Section
 
-![Musk](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rotating_earth_%28large%29.gif/200px-Rotating_earth_%28large%29.gif)
+![earth](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rotating_earth_%28large%29.gif/200px-Rotating_earth_%28large%29.gif)
 
 
